@@ -7,4 +7,4 @@ Các cột và ý nghĩa của các cột đó như sau:
 - MainTech: công nghệ chính
 - AnualSalary: mức lương hằng năm.
 
-**Bài toán:** hãy thử đặt câu hỏi và xem bộ dữ liệu này với excel và tìm ra điều bị ẩn trong bộ data này.
+**Bài toán:** xem bộ dữ liệu này với các công cụ mà bạn biết, hãy thử đặt câu hỏi để tìm ra và tìm ra điều bị ẩn trong bộ data này.
