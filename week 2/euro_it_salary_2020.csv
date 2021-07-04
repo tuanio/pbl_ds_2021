@@ -1,0 +1,1254 @@
+,Age,Gender,TotYrsOfExp,MainTech,AnualSalary
+0,26,Male,5,TypeScript,75000
+1,26,Male,7,Ruby,82000
+2,29,Male,12,Javascript / Typescript,100000
+3,28,Male,4,Javascript,
+4,37,Male,17,C# .NET,62000
+5,32,Male,5,"AWS, GCP, Python,K8s",76000
+6,37,Male,6,Javascript,
+7,24,Male,5,Typescript,65000
+8,29,Male,8,PHP,55000
+9,35,Male,15,Java,90000
+10,32,Female,2,Aws Hadoop Postgre Typescript,52500
+11,,Male,25,C++,80000
+12,,,,PHP,
+13,34,Male,14,Typescript,
+14,28,Male,11,,66000
+15,31,Male,5,Kotlin,75000
+16,29,Male,7,Ruby,58000
+17,41,Male,18,,100000
+18,27,Male,8,PHP,55000
+19,34,Male,11,kotlin,75000
+20,34,Male,13,,90000
+21,34,Male,15,NodeJS,92000
+22,25,Male,5,Javascript,
+23,59,Male,30,Java,69000
+24,36,Male,17,PHP,65000
+25,38,Male,18,iOS,80000
+26,24,Male,6,Kubernetes,63000
+27,37,Male,6,Charles,44000
+28,,Male,14,,65000
+29,40,Male,13,SQL,
+30,29,Male,6,Go,78000
+31,31,Male,5,java,
+32,29,Female,7,,
+33,39,Male,8,Java,80000
+34,27,Male,8,Javascript,
+35,33,Male,5,Python,81000
+36,28,Female,7,Figma,37000
+37,30,Male,8,JavaScript,72000
+38,28,Male,5,Kotlin,58000
+39,38,Male,10,Go/Python,65000
+40,29,Male,7,React,63000
+41,49,Male,15,Java,66000
+42,32,Male,10,TypeScript,80000
+43,33,Female,12,С#,96000
+44,30,Male,6,Java,54000
+45,48,Male,25,Java,75000
+46,28,Female,5,,
+47,32,Male,3,Java,62000
+48,38,Female,12,,63000
+49,31,Male,7,Python,69000
+50,35,Male,10,Ruby,72000
+51,28,Female,7,Figma,37000
+52,29,Female,8,,52000
+53,32,Male,8,PHP,60000
+54,44,Male,12,Java,68000
+55,,Male,,PHP,
+56,35,Male,11,Php,65000
+57,33,Male,15,Kubernetes,78000
+58,29,Male,5,Go,58000
+59,66,Male,40,ruby on rails,50000
+60,39,Female,10,Java,68000
+61,28,Male,5,Kotlin,56000
+62,34,Male,5,JavaScript/ES6,70000
+63,34,Male,13,.NET,60000
+64,32,Male,7,Javascript,60000
+65,38,Male,15,Hardware,
+66,32,Male,10,,85000
+67,45,Male,26,C#,93000
+68,48,Male,23,Google Cloud Platform,
+69,28,Male,3,Js,42000
+70,29,Male,6,android,53000
+71,36,Male,15,java,55000
+72,39,Male,10,C#,65000
+73,29,Male,7,JavaScript ,72000
+74,31,Male,11,Java,79000
+75,30,Male,5,Java,
+76,30,Male,8,,63000
+77,33,Male,4,Java,
+78,27,Male,5,Scala,70000
+79,26,Female,6,python,60000
+80,26,Male,8,Go,75000
+81,31,Female,6,SQL,50000
+82,30,Male,10,Scala,70000
+83,38,Male,17,,62400
+84,43,Male,5,Kotlin,68000
+85,33,Male,5,python,65000
+86,31,Male,9,"C#, .net core",
+87,32,Female,10,Java,55000
+88,24,Male,4,Python,50000
+89,29,Male,7,Kubernetes,70000
+90,29,Male,4,Python,72000
+91,30,Male,5,VHDL,73000
+92,35,Female,3,Power BI,45000
+93,27,Female,6,,
+94,32,Female,8,,
+95,33,Male,5,Java,
+96,28,Male,8,PHP ,72000
+97,31,Female,14,none,80000
+98,32,Male,7,Android,60000
+99,30,Male,8,Scala,60000
+100,26,Male,7,Java,61000
+101,31,Male,10,Java,68000
+102,38,Female,6,Java,62000
+103,37,Male,10,PHP,55000
+104,25,Male,3,Java,55000
+105,36,Male,12,JavaScript,72000
+106,27,Male,5,Swift,58000
+107,35,Male,12,ML,90000
+108,37,Male,15,php,72500
+109,26,Male,3,Python,52000
+110,33,Male,6,Python,78000
+111,34,Male,7,JavaScript,
+112,33,Male,12,PHP,60000
+113,,Male,6,Javascript,45000
+114,29,Male,8,Scala,
+115,24,Male,5,C++,77000
+116,28,Female,6,,42000
+117,30,Female,8,"Scala, React.js",65000
+118,28,Male,8,SQL,
+119,31,Male,11,PHP,80000
+120,28,Male,5,iOS,70000
+121,32,Female,10,C#,
+122,28,Male,6,Java,60000
+123,26,Female,3,Ml/Python,
+124,33,Male,6,Swift,60000
+125,41,Male,18,,60000
+126,31,Male,9,"C#, .net core",
+127,30,Male,6,Javascript,
+128,31,Male,8,JavaScript/TypeScript,
+129,37,Male,12,php,60000
+130,30,Male,10,Python,75000
+131,34,Male,17,Java,110000
+132,25,Male,5,Java,
+133,36,Male,19,PHP,69000
+134,40,Male,7,Javascript,54000
+135,37,Male,6,,58000
+136,35,Male,13,Java,77000
+137,42,Male,20,Ruby on Rails,72000
+138,34,Male,10,Java,65000
+139,30,Male,6,Ruby,65000
+140,35,Male,12,C#,
+141,34,Male,10,"Azure, SAP",70000
+142,35,Male,10,,65000
+143,35,Male,14,,
+144,28,Male,7,Scala,
+145,26,Male,5.5,Python,
+146,35,Male,4,JavaScript,
+147,31,Female,7,Java,58000
+148,35,Male,12,java,66000
+149,28,Male,3,,
+150,25,Male,4,Python,60000
+151,42,Female,20,python,
+152,30,Male,7,,
+153,40,Female,20,Java,54000
+154,36,Female,14,,36000
+155,37,Male,8,Java,
+156,33,Male,10,Java,68000
+157,38,Male,11,PHP,55000
+158,27,Male,4,Frontend,
+159,33,Male,7,"Java, JavaScript",52000
+160,34,Male,12,,67000
+161,36,Female,5,PHP,
+162,42,Male,22,yaml,
+163,32,Male,10,Python ,68500
+164,31,Male,10,Javascript,67500
+165,33,Female,6,Java,
+166,40,Male,10,JS,
+167,28,Male,4,Java ,
+168,28,Male,6,Java,57000
+169,46,Male,4,,78000
+170,31,Male,9,Python,80000
+171,28,Male,5,Swift,
+172,29,Male,8,PHP,
+173,40,Male,25,Swift,72000
+174,46,Male,13,Java,70000
+175,33,Male,5,Java,61000
+176,33,Male,10,Python,60000
+177,34,Male,14,Java,90000
+178,36,Male,18,PHP,60000
+179,33,Female,8,-,42000
+180,32,Male,11,Android,80000
+181,46,Male,14,JavaScript,63000
+182,30,Male,8,Kotlin,
+183,36,Male,12,Python,
+184,35,Male,10,php,
+185,47,Male,20,,
+186,31,Male,10,Python ,115000
+187,46,Male,12,Agile,88000
+188,26,Male,6,Kotlin,65000
+189,31,Male,10,C,
+190,31,Male,12,"TypeScript, JavaScript",75000
+191,30,Female,5,Python ,50000
+192,35,Male,13,Pegasystems platform ,132000
+193,33,Male,12,Javascript,65000
+194,36,Male,7,"C++, Java, Embedded C",42000
+195,36,Male,12,Cloud,105000
+196,40,Male,13,,
+197,38,Male,6,DC Management,65000
+198,35,Female,15,C#,
+199,32,Male,9,Java,68000
+200,29,Male,8,Go,70000
+201,30,Male,9,Java,57600
+202,35,Male,10,Scala,80000
+203,29,Male,7,Python,60000
+204,32,Female,10,,54000
+205,30,Female,10,Swift,65000
+206,25,Male,6,Java,
+207,43,Male,20,Python,80000
+208,38,Male,16,Python,65000
+209,26,Male,5,Scala,56500
+210,25,Female,3,--,
+211,34,Male,12,python,85000
+212,34,Male,11,,
+213,27,Male,5,Java,
+214,30,Male,3,Swift,52000
+215,34,Male,5,Python,60000
+216,36,Female,14,Java,63000
+217,27,Male,5,Java,
+218,45,Male,10,SWIFT,66000
+219,35,Male,6,"Java, angular, Aws",
+220,36,Male,7,"Swift, objective-c",
+221,32,Male,9,Java,67000
+222,33,Male,14,Golang,
+223,30,Male,10,PHP,
+224,35,Male,15,go,
+225,24,Male,0.8,Java,48000
+226,25,Male,4,Java,50000
+227,29,Male,8,Kotlin,52000
+228,32,Male,10,DevOps,
+229,32,Male,11,.net,47000
+230,24,Male,3,Node.js,
+231,24,Female,2,iOS,
+232,56,Male,9,R,
+233,53,Male,15,"Java, Javascript",
+234,25,Male,1,Python,
+235,32,Male,9,,
+236,28,Male,8,C++,
+237,32,Male,,Ruby,
+238,30,Male,7,C++,97000
+239,26,Female,6,.NET,56000
+240,31,Female,4,R,62000
+241,31,Male,9,C++,
+242,29,Female,6,JS,
+243,33,Male,15,Scala,98000
+244,26,Male,1.5,Python,55000
+245,30,Female,6,Bash,70000
+246,34,Male,14,C#,65000
+247,37,Male,12,Python,85000
+248,38,Male,16,.Net,
+249,28,Male,9,Network,53300
+250,35,Male,14,,53000
+251,31,Male,10,nothing,67500
+252,29,Male,1,Python,
+253,39,Male,5,"Qlik BI Tool, SQL",53000
+254,31,Female,11,,21800
+255,39,Male,12,PHP,108000
+256,29,Male,8,Java,74000
+257,36,Male,1,Javascript,
+258,33,Male,10,Swift,66000
+259,35,Male,12,,
+260,31,Male,9,Python,80600
+261,38,Male,11,Javascript,
+262,37,Male,15,Cloud,62000
+263,34,Male,7,,72000
+264,30,Male,4,PHP,36000
+265,34,Male,14,Blockchain,85000
+266,33,Male,12,PHP,65000
+267,43,Male,5,Java,63000
+268,32,Female,2,Java,48000
+269,34,Male,14,Android,52000
+270,29,Male,9,Java,66000
+271,37,Male,14,Angular,82000
+272,41,Male,19,Autonomous Driving,120000
+273,33,Male,6,c#,48000
+274,33,Female,9,Java,54000
+275,40,Male,18,Java,76000
+276,38,Male,12,Java,68000
+277,29,Male,5,"Js, TypeScript, Angular",57000
+278,27,Male,7,go,
+279,39,Male,10,,120000
+280,33,Male,10,.NET,
+281,28,Male,8,Javascript,
+282,33,Female,6.5,,55000
+283,38,Male,10,Python,85000
+284,42,Male,20,Python,66000
+285,45,Female,6,T-SQL,
+286,38,Male,12,Java,72000
+287,29,Male,9,,55000
+288,30,Male,11,Kotlin,55000
+289,32,Male,9,JavaScript,75000
+290,41,Male,21,Java,78000
+291,34,Male,10,python,72000
+292,45,Male,25,c++,73000
+293,34,Male,6,"Java, terraform",54000
+294,25,Male,7,PHP,
+295,32,Male,12,iOS,65000
+296,65,Male,25,"Pascal, VB.NET, C#",50000
+297,33,Male,10,Java,70000
+298,34,Male,12,Python,80000
+299,28,Male,7,PHP,
+300,,Male,7.5,SQL,48000
+301,39,Male,17,Oracle,
+302,30,Male,7,Ruby,66000
+303,34,Male,12,Java,
+304,35,Male,10,PHP,60000
+305,35,Female,12,Javascript ,70000
+306,34,Male,10,"Angular, React",68000
+307,34,Male,12,.net,64000
+308,35,Male,8,Elixir,
+309,38,Male,13,Java,82240
+310,34,Female,9,Kotlin,65000
+311,31,Male,7,iOS,72500
+312,34,Male,15,Elixir,65000
+313,29,Female,5,"NodeJS, Typescript, AWS",65000
+314,37,Male,15,Scala,100000
+315,44,Male,22,Erlang,76000
+316,30,Male,9,TypeScript,64000
+317,26,Male,4,JavaScript,55000
+318,33,Diverse,1,Scala,
+319,46,Male,14,JavaScript,63000
+320,33,Male,14,PHP,68000
+321,27,Male,4,C#,43000
+322,38,Male,15,C#,56400
+323,32,Male,11,PHP,
+324,36,Female,11,,55000
+325,26,Male,7,Java,
+326,29,Male,12,Go,70000
+327,32,Male,8,"Java, JS",
+328,29,Male,5,Objective-C,55000
+329,33,Male,10,Ruby,70000
+330,,,2,Python ,54000
+331,32,Male,9,QA,
+332,34,Male,10,C++,73000
+333,31,Male,2.5,Python,17000
+334,29,Male,7,TypeScript,
+335,33,Male,10,C#,65000
+336,32,Male,4,Ruby,
+337,47,Male,22,C++/C#,46000
+338,29,Male,8,Go,60000
+339,28,Male,5,C++,44000
+340,,Male,,,60000
+341,25,Male,2,Python,43200
+342,32,Male,9,ABAP,
+343,45,Male,3,Javascript / Typescript,65000
+344,26,Male,3,Python ,
+345,29,Male,8,Java/Kotlin,
+346,40,Male,18,php,60000
+347,27,Male,5,Typescript / Angular,66000
+348,27,Male,5,Javascript,65000
+349,38,Male,20,,42000
+350,22,Male,3,PHP,
+351,30,Male,9,Kubernetes,80000
+352,30,Male,6,.NET,
+353,29,Male,8,C++,59000
+354,37,Male,15,ABAP,65000
+355,28,Male,6,Kubernetes,66000
+356,28,Female,8,Javascript,
+357,26,Male,5,,52000
+358,28,Male,5,Java,42000
+359,33,Male,13,Ruby,68000
+360,25,Male,5,Java,
+361,38,Male,7,,54500
+362,40,Male,22,Java,45000
+363,28,Male,9,React/Typescript,
+364,29,Male,11,Python,85000
+365,,Male,9,Java,
+366,24,Male,3,Python,
+367,30,Male,4,Golang ,
+368,31,Male,11,Python,
+369,44,Male,28,C#,78500
+370,35,Male,5,,54000
+371,41,Female,12,,61500
+372,32,Male,12,Java,75000
+373,28,Female,4,,
+374,,Male,8,Python,70400
+375,33,Male,10,iOS,
+376,46,Male,10,Python ,60000
+377,27,Male,8,Angular,
+378,30,Male,2,php,
+379,32,Male,5,Ruby,60000
+380,34,Male,15,Java,76000
+381,33,Male,10,Salesforce ,
+382,26,Male,4,javascript,20000
+383,41,Male,19,Python,94000
+384,35,Male,14,C++,70000
+385,26,Male,7,TypeScript,
+386,27,Male,3,Kotlin,
+387,24,Male,3,Java/C++,72000
+388,35,Male,13,Scala / Python,90000
+389,31,Male,7,C++,50000
+390,25,Male,5,Java,
+391,30,Male,2,Python,
+392,37,Male,20,,125000
+393,30,Male,5,C,14712
+394,33,Male,5,,65000
+395,35,Male,11,Java,
+396,37,Male,15,Java,60000
+397,36,Male,10,Java/Scala,78000
+398,32,Female,4,Python,76000
+399,38,Male,5,,70000
+400,23,Male,4,Javascript,58000
+401,39,Male,11,PHP,75000
+402,27,Female,3,Python,55000
+403,50,Male,29,C++,28800
+404,35,Female,15,,
+405,40,Male,10,,
+406,35,Male,11,python,53000
+407,29,Male,10,Ruby,
+408,30,Male,8,Swift,60000
+409,24,Male,3,JavaScript,44000
+410,28,Male,8,Java,
+411,28,Male,9,PHP,45000
+412,37,Female,2,,
+413,37,Male,8,Python ,70000
+414,33,Male,10,,70000
+415,30,Male,8,Web developer,27000
+416,30,Male,4,JavaScript/Typescript,
+417,31,Male,4,Java,89000
+418,,Male,4,Java,56000
+419,28,Female,3,Javascript,55000
+420,31,Female,2,Java,26000
+421,34,Male,9,Android,65000
+422,24,Male,4,PHP,42000
+423,39,Male,15,Python,70000
+424,42,Male,20,.NET,75000
+425,26,Male,8,"TypeScript, React",85000
+426,31,Female,2,,
+427,32,Female,7,Kotlin,55000
+428,30,Female,4,,
+429,23,Male,3,Swift,
+430,27,Female,3,,
+431,27,Male,4,python,40000
+432,27,Male,5,Python / JavaScript (React),75000
+433,29,Male,8,JavaScript / typescript,
+434,32,Male,10,Java,86000
+435,31,Male,11,Terraform,75000
+436,29,Male,2,JavaScript,16000
+437,26,Male,7,SQL,
+438,29,Male,5,PHP,
+439,30,Male,7,JavaScript,
+440,38,Male,10,Swift,70000
+441,32,Male,10,JAVA,
+442,25,Male,6,Apache Spark,73000
+443,24,Male,3,C#,
+444,24,Male,3,Java,28800
+445,27,Male,3,.NET,16560
+446,34,Female,6,Ruby,61400
+447,30,Male,2,python,41000
+448,27,Female,2,JavaScript,50000
+449,46,Male,23,C#,76000
+450,48,Male,,"Computer Networking,  Network Security ",
+451,42,Female,12,Java,39000
+452,40,Female,8,C#,54000
+453,23,Male,5,Javascript,
+454,33,Male,,Java,78000
+455,30,Male,2,Elixir,18000
+456,40,Male,11,SAP BW / ABAP,72000
+457,38,Male,10,"Go, PHP, SQL",
+458,28,Male,5,Swift,30000
+459,38,Male,16,ABAP,80000
+460,32,Male,12,Java,65000
+461,33,Female,6,java,54000
+462,34,Male,13,Kotlin ,
+463,35,Female,9,Jira,60000
+464,37,Male,9,Qml,60000
+465,40,Male,14,C,
+466,33,Male,10,PHP,84000
+467,36,Male,15,AWS,73000
+468,31,Female,,,
+469,27,Male,5,C#/.NET,45000
+470,28,Male,6,PHP,60000
+471,23,Male,4,PHP,
+472,31,Female,11,JS,55000
+473,,,,,
+474,34,Male,12,PHP,
+475,34,Male,10,.Net,55000
+476,29,Male,7,Android,65000
+477,38,Male,15,Javascript,78000
+478,25,Female,4,Javascript / Typescript,
+479,28,Male,6,JavaScript,
+480,23,Male,3,JavaScript,52000
+481,30,Male,10,.NET,75000
+482,32,Male,10,JavaScript,78000
+483,28,Male,2,JavaScript,46000
+484,31,Male,4,python,50000
+485,29,Male,6,,54000
+486,40,Female,"1,5",JavaScript ,40000
+487,42,Male,17,Go,73000
+488,40,Male,13,,75000
+489,27,Male,6,Java,94000
+490,29,Male,8,PHP,66000
+491,37,Male,18,Go,156000
+492,23,Male,5,Python,
+493,35,Male,14,Java,69300
+494,39,Male,11,Python ,130000
+495,33,Male,10,C#,
+496,31,Male,10,Python,
+497,38,Male,15,Python,80000
+498,31,Male,3,Python ,65000
+499,24,Male,1,Python,48000
+500,26,Female,2,Python,
+501,30,Male,10,Java,70000
+502,33,Male,9,Java,100000
+503,33,Male,11,Python,
+504,31,Male,10,Swift,64000
+505,33,Male,2,Python,54000
+506,43,Male,21,Java,63000
+507,36,Male,14,Javascript,70000
+508,33,Male,9,Javascript / Typescript,60000
+509,36,Female,1,java,58000
+510,27,Female,1,"Kotlin, Java",50000
+511,33,Male,12,Go,104000
+512,33,Male,2,SQL,50000
+513,40,Male,11,Python,60000
+514,24,Female,2,,
+515,40,Male,17,Linux Kernel,81000
+516,37,Male,13,,60000
+517,35,Male,6,Javascript,
+518,39,Male,7,several,65000
+519,25,Male,6,Java,60000
+520,27,Male,4,C#,
+521,30,Male,3,,
+522,28,Male,4,Python ,70000
+523,36,Female,10,javascript,40000
+524,29,Female,9,Java,60000
+525,37,Male,3,Python,
+526,34,Male,10,Android/Kotlin,
+527,28,Female,4,Python,56000
+528,39,Male,20,embedded,118000
+529,,Male,15,Java,
+530,,Male,,JavaScript,
+531,32,Male,6,PHP,
+532,37,Male,6,Java/Groovy,67100
+533,32,Male,7,Python ,65000
+534,28,Male,4,,45000
+535,35,Male,16,PHP,79000
+536,26,Male,5,Python ,55000
+537,32,Male,7,Typescript,
+538,29,Male,5,Python,55000
+539,36,Male,10,typescript,80000
+540,26,Male,5,Swift,65000
+541,28,Male,5,Scala,60000
+542,36,Male,5,python,
+543,40,Male,18,java,160000
+544,29,Male,4,Python + SQL,35000
+545,32,Male,10,javascript,65000
+546,28,Male,5,Java,52000
+547,27,Male,7,Go,75000
+548,33,Male,16,Java,80000
+549,34,Male,5,Java,72000
+550,31,Male,8,Typescript,55000
+551,31,Male,8,"Typescript, Web apps",67000
+552,31,Male,5,Python,90000
+553,27,Male,6,Python,78000
+554,31,Male,9,Python,48000
+555,29,Male,10,Scala,75000
+556,39,Male,6,PHP,
+557,35,Male,10,JavaScript,70000
+558,38,Male,24,Java,
+559,31,Male,10,Python,81000
+560,32,Male,7,Swift,62000
+561,35,Male,10,Terraform ,75000
+562,28,Male,2,Java,28000
+563,30,Female,6,python,63000
+564,30,Male,5,,75000
+565,26,Male,2,Python,31000
+566,25,Male,3,Scala,58000
+567,30,Male,3,,
+568,27,Male,4,AWS,61200
+569,28,Male,7,,
+570,22,Male,4,"Java, .Net",
+571,37,Female,2,Python,58000
+572,25,Male,1,"Python, statistics, SQL",
+573,33,Male,11,Scala,110000
+574,38,Male,20,C,80000
+575,31,Male,6,,76000
+576,24,Male,1,C++,
+577,28,Male,10,,
+578,25,Male,5,Node.js,
+579,26,Female,4,"Sql, BQ, tableau, gtm, ga",45000
+580,29,Male,3,React ,43000
+581,22,Female,4,Business Development Manager Operation ,39000
+582,30,Male,4,TypeScript,70000
+583,30,Male,11,Typescript,72000
+584,28,Female,10,Management,75000
+585,29,Male,9,Javascript / Typescript,
+586,32,Male,10,Bash,
+587,36,Male,4,C++,37000
+588,32,Male,7,,85000
+589,30,Female,4,Python,55000
+590,29,Male,7,C++,70000
+591,32,Female,10,Java,62000
+592,34,Male,10,JS,65000
+593,30,Male,6,,65000
+594,40,Male,15,Python,65000
+595,35,Male,15,C++,77000
+596,31,Male,8,"Java, Kotlin",72000
+597,38,Male,15,Python,56000
+598,39,Male,10,R,80000
+599,35,Male,13,Nodejs,82000
+600,30,Female,5,TS,
+601,29,Female,0,Python,
+602,36,Male,18,C++,98000
+603,41,Male,20,Python,88000
+604,41,Male,18,PHP,80000
+605,28,Female,6,sql,
+606,33,Male,10,javascript,70000
+607,31,Male,3,JavaScript ,50400
+608,29,Male,5,Java,
+609,23,Male,3,Java,
+610,25,Male,4.5,"Spark, Pytorch",
+611,34,Male,10,Java,73000
+612,45,Male,30,PHP,55000
+613,37,Male,15,C/C++,78000
+614,31,Male,9,javascript,89000
+615,32,Male,15,Golang,90000
+616,45,Female,15,Java,52000
+617,42,Male,16,java/scala/go/clouds/devops,
+618,23,Male,4,,
+619,36,Male,14,JS,73500
+620,40,Male,20,C#,80000
+621,28,Male,7,Java,
+622,35,Male,15,C,63000
+623,37,Male,12,Java,78000
+624,33,Male,10,C/C++,75000
+625,33,Male,13,Java,78600
+626,31,Male,10,Java ,
+627,31,Male,4,Java,50000
+628,28,Male,3,Java,42000
+629,31,Male,6,Python,53000
+630,40,Male,20,Swift,230000
+631,25,Female,3,Java,48000
+632,35,Male,9,Python,70000
+633,35,Male,15,.net,67000
+634,41,Male,20,"Linux/UNIX, GIT, Virtualisation Platforms, *shell(s) scripts",56400
+635,33,Male,8,AWS,72500
+636,33,Male,13,Python,75000
+637,38,Male,15,Java,70000
+638,35,Male,10,php,78000
+639,36,Female,5,Python,75000
+640,49,Male,27,Java,57000
+641,32,Male,10,TypeScript,90000
+642,32,Female,6,Java,75000
+643,27,Female,1,"Python, SQL",42000
+644,31,Male,6,python,
+645,31,Male,8,Swift,60000
+646,28,Male,4,Java,44000
+647,28,Female,3,JavaScript,52000
+648,27,Male,2,DWH,97000
+649,29,Male,8,JavaScript,65000
+650,32,Female,10,Python,70000
+651,28,Male,5,QA,58000
+652,34,Female,13,python,90000
+653,38,Male,16,Swift,85000
+654,29,Male,3,Azure,45000
+655,30,Male,7,C++,60000
+656,33,Female,6,"Sketch, Figma",
+657,30,Male,6,Python,
+658,31,Male,5,,760000
+659,37,Male,16,iOS,55000
+660,32,Male,13,Kotlin,80000
+661,32,Female,9,,
+662,40,Male,13,,75000
+663,30,Male,7,Java,82600
+664,30,Male,8,JS,60000
+665,32,Male,10,js,81000
+666,32,Male,7,k8s,70000
+667,34,Male,12,Java,69000
+668,43,Male,10,Php,57600
+669,33,Male,13,Java,64000
+670,28,Female,8,Kotlin,64000
+671,33,Male,11,Java,
+672,33,Male,11,"Frontend: react, node.js",75000
+673,51,Male,30,"VB, RPA, Python",50000
+674,35,Male,8,Go,85000
+675,35,Male,1,FBD,
+676,33,Male,10,,
+677,28,Male,6,"C, C++",
+678,21,Female,2,,
+679,25,Male,2,"Swift, Objective-C, iOS",43000
+680,25,Female,1,Ruby,12000
+681,32,Male,10,Ruby,68500
+682,32,Male,9,Embedded,65000
+683,26,Male,9,Go,95000
+684,25,Male,6,JavaScript / TypeScript,66000
+685,27,Female,5,Kotlin,52000
+686,28,Male,7,Javascript,76000
+687,32,Female,8,Java,
+688,28,Male,7,Java,66000
+689,34,Male,13,JavaScript,
+690,35,Male,10,python,65000
+691,38,Male,20,Java,130000
+692,33,Male,9,Java,
+693,36,Male,10,,80000
+694,31,Female,8,Java,39000
+695,43,Male,20,SAP / ABAP,82000
+696,38,Male,15,Python,80000
+697,35,Male,17,Kubrrnetes,72500
+698,33,Male,6,,
+699,33,Male,6,,
+700,32,Male,10,python,
+701,43,Male,21,,75000
+702,37,Male,,C#,
+703,37,Male,17,Swift,71000
+704,30,Male,8,C++,69000
+705,29,Male,5,iOS,58000
+706,41,Male,18,JavaScript,92000
+707,38,Male,4,PHP,43000
+708,,Male,18,,
+709,29,Male,6,TypeScript,
+710,35,Male,12,JS,56000
+711,41,Male,19,Java,73000
+712,29,Male,0,Python,11000
+713,26,Female,5,ABAP,46000
+714,32,Male,12,,
+715,30,Male,6,Python,
+716,26,Male,3,"networking, linux, automation, cloud",
+717,35,Female,4,PHP,47000
+718,47,Male,25,java,
+719,33,Male,10,,
+720,44,Male,15,UML,
+721,40,,13,python,72000
+722,32,Male,13,JavaScript,65000
+723,33,Male,2,Spark,60000
+724,32,Male,8,"Js, reactJS ",
+725,26,Male,4,Scala,46000
+726,,Male,10,,80000
+727,22,Diverse,1,Cobol,98000
+728,43,Male,20,Java,105000
+729,33,Male,11,JavaScript ,
+730,35,Female,1,ABAP,50000
+731,28,Male,5,JavaScript,62000
+732,36,Male,16,SRE,
+733,27,Male,2,Python ,
+734,36,Male,4,Java,55000
+735,38,Male,5,Java,60000
+736,28,Male,6,Android,
+737,25,Male,8,Clojure,
+738,30,Male,6,Javascript,77000
+739,42,Female,10,"JS, WDIO",32000
+740,30,Male,8,Python,72000
+741,28,Male,8,Ruby,62000
+742,32,Female,9,"Terraform, Kubernetes, AWS, GCP, Ansible, Puppet",65000
+743,29,Male,3,JavaScript ,
+744,30,Female,8,,
+745,35,Male,13,TypeScript,92000
+746,33,Male,10,JS,66000
+747,34,Male,13,Elixir,
+748,25,Male,6,Go,80000
+749,42,Female,5,Java,46000
+750,25,Female,3,Python,
+751,40,Male,14,Spring,65000
+752,33,Male,11,Python,
+753,39,Male,12,PHP ,75000
+754,24,Male,2,Javascript,35000
+755,24,Female,3,Java,23000
+756,39,Male,15,Java,78000
+757,33,Male,8,C#,56000
+758,26,Male,2.5,Java,
+759,29,Male,6,Swift,
+760,29,Female,5,PHP,47000
+761,32,Male,8,"C, C++",26000
+762,34,Male,12,,56000
+763,30,Male,9,Java,80000
+764,31,Male,7,Python,65000
+765,33,Male,8,swift,75000
+766,31,Female,1,React,54000
+767,36,Male,16,.Net,65000
+768,30,Male,7,,
+769,30,Male,8,Swift,
+770,27,Male,1,Javascript,
+771,39,Male,19,Golang,82000
+772,30,Male,10,Офмф,
+773,32,Male,11,C++,
+774,35,Male,12,php,
+775,34,Male,6,python,76000
+776,26,Male,4,Python,60000
+777,29,Male,7,Kotlin,
+778,42,Male,18,React JS,75000
+779,31,Male,12,Java,55000
+780,30,Male,8,,
+781,33,Male,10,Python,70000
+782,28,Male,6,Python,75000
+783,33,Male,7,,39000
+784,35,Male,3,Python,60000
+785,35,Male,16,Python,100000
+786,31,Male,8,Typescript ,
+787,32,Male,13,C,
+788,38,Male,15,Go,73000
+789,29,Male,9,Go,
+790,33,Male,13,Java,
+791,30,Male,7,,70000
+792,28,Male,6,JavaScript,60000
+793,32,Male,9,Python,85000
+794,39,Male,10,Javascript,
+795,31,Male,6,TypeScript/Angular,90000
+796,33,Male,10,golang,110000
+797,30,Male,8,Python,66000
+798,39,Female,11,,93000
+799,30,Female,2,R,
+800,37,Male,15,C#,65000
+801,42,Male,20,PHP,63000
+802,28,Male,6,,58000
+803,31,Male,9,Java,57000
+804,20,Male,5,C#,
+805,34,Female,1 (as QA Engineer) / 11 in total,Python,36000
+806,38,Male,15,,75000
+807,35,Male,20,Go,75000
+808,31,Male,14,C++,
+809,37,Male,11,Python,67000
+810,37,Male,12,Kotlin/PHP,84000
+811,34,Male,9,iOS,67000
+812,25,Male,1,Python,
+813,42,Male,20,C++,
+814,35,Female,13,,64000
+815,37,Male,8,,54000
+816,33,Female,8,Python ,70000
+817,26,Female,6,JavaScript,27000
+818,46,Male,13,C++,68000
+819,30,Male,11,,75000
+820,34,Male,13,C#,65000
+821,35,Male,15,Java,85000
+822,27,Male,4,Go,
+823,31,Male,7,python,85000
+824,24,Male,2,Java,60000
+825,28,Male,7,Python,75000
+826,42,Male,18,PHP,
+827,27,Male,5,Python,
+828,30,Male,5,Python,45000
+829,,Male,11,python,
+830,26,Male,2,TypeScript,
+831,37,Male,15,Python,75000
+832,,Male,12,Java,80000
+833,39,Male,8,Python,125000
+834,26,Female,"2,5",JS,33000
+835,30,Male,5,Python,70000
+836,44,Male,10,SAP ABAP,73000
+837,26,Male,5,Spark,190000
+838,30,Male,10,Go,
+839,26,Male,3,Python,42000
+840,25,Female,1,AI,
+841,34,Male,11,Python,
+842,38,Female,3,Python,60000
+843,40,Male,13,,75000
+844,28,Male,5,Swift,50000
+845,29,Female,2,R,
+846,30,Female,5,pythin,46000
+847,28,Male,6,C#,47500
+848,,Female,1,Python,
+849,42,Male,12,Java,
+850,27,Male,5,Python,
+851,29,Male,4,Python,53000
+852,29,Male,4,R,78000
+853,29,Female,1,julia,500000000
+854,27,Female,1,Java,42000
+855,36,Male,"15, thereof 8 as CTO",Java & PHP,120000
+856,37,Male,14,Typescript,84000
+857,31,Male,10,Python,
+858,35,Male,5,R,48000
+859,27,Male,4,Python,
+860,29,Male,6,Python,
+861,36,Male,5,Java,60000
+862,33,Male,10,Java,70000
+863,42,Male,12,Java,
+864,32,Female,1,Sql ,
+865,30,Male,10,Frontend,100000
+866,29,Female,4,Java/Kotlin,
+867,23,Male,1,Python,
+868,35,Female,2,React,38000
+869,36,Male,14,C++/c,78500
+870,34,Male,10,SQL,65000
+871,34,Male,12,Kubernetes,92000
+872,31,Male,4,Python,86000
+873,34,Female,7,Java,
+874,31,Male,,Python,
+875,33,Male,14,"Angular, Typescript",
+876,33,Male,8,C#,63500
+877,33,Male,12,PHP,
+878,29,Male,3,Python,
+879,44,Female,13,,
+880,31,Male,5,Python,60000
+881,26,Male,2,Pyrhon,
+882,42,Male,12,Java,
+883,27,Male,3,.net,
+884,33,Male,5,PM tools,
+885,33,Male,7,C++,104000
+886,36,Male,9,,60000
+887,31,Male,9,"Grails, Groovy",63000
+888,42,Male,12,Java,
+889,30,Male,7,Python,100000
+890,32,Female,10,Java,55000
+891,34,Male,16,Ruby,91000
+892,35,Male,15,C++,60000
+893,33,Male,10,PHP,75000
+894,39,Male,12,PHP,58000
+895,39,Female,13,,102000
+896,25,Female,2,python ,12000
+897,34,Male,4,JavaScript,66000
+898,28,Male,8,.NET,
+899,35,Male,6,React / JavaScript,
+900,38,Male,8,Perl,64000
+901,34,Male,13,Java,70000
+902,36,Male,8,kotlin,81000
+903,30,Female,8,Java,52000
+904,,Male,10,.net,57000
+905,27,Male,6,Python,70000
+906,27,Male,5,Java,
+907,33,Male,7,Ruby,
+908,29,Male,7,,
+909,30,Female,8,"Python, cloud computing ",83200
+910,25,Male,2,Python,
+911,38,Male,12,Java,85000
+912,30,Female,4,JS,
+913,24,Male,3,,
+914,34,Male,14,Haskell,80000
+915,29,Male,8,JavScript,65000
+916,27,Male,3,Java,
+917,36,Male,5,JavaScript,60000
+918,43,Male,20,Ruby,70000
+919,32,Male,10,js,
+920,28,Male,0,python,
+921,36,Male,20,Java,74000
+922,38,Female,14,R,70000
+923,27,Male,3,,
+924,26,Male,2,Php,25000
+925,26,Male,2,Python,43000
+926,34,Male,6,C++,70000
+927,25,Male,0,Python ,
+928,30,Male,3,Python,47000
+929,35,Male,10,,50400
+930,30,Male,7,SQL,
+931,26,Male,5,Python (Django),60000
+932,30,Female,7,Python,45600
+933,33,Female,6,C++,53000
+934,26,Male,6,Go,64000
+935,29,Male,6,Python ,
+936,36,Male,5,Python,
+937,23,Male,3,Python,44500
+938,45,Male,2,Python,
+939,41,Male,22,Python,45000
+940,28,Male,1,Python,42000
+941,35,Male,12,Python,65000
+942,37,Female,8,Python ,
+943,26,Male,4,JavaScript,19000
+944,30,Male,5,R,40000
+945,24,Male,5,Python,40000
+946,35,Male,6,C,88000
+947,27,Male,2,SQL,25300
+948,31,Male,10,Python,78000
+949,27,Female,6,Java,75000
+950,29,Male,2,Python,50000
+951,29,Male,6,Python,75000
+952,34,Male,14,Kotlin,85000
+953,29,Male,10,TypeScript,
+954,35,Male,12,Python,80000
+955,54,Male,31,Network Automation,110000
+956,31,Male,6,Kotlin,80000
+957,30,Male,5,C++,
+958,36,Male,15,C++,169000
+959,24,Male,1,Python,
+960,28,Male,8,C#,25000
+961,,Male,4,python,85000
+962,36,Male,2,Python,55000
+963,26,Male,5,"Kubernetes, Terraform, GCP",60000
+964,36,Male,14,PowerShell,58040
+965,33,Male,13,Python,73000
+966,35,Male,6,Java,200000
+967,29,Male,5,Python,
+968,36,Male,6,JavaScript,55000
+969,35,Male,2,"python, scala",42000
+970,29,Male,9,Java,75000
+971,29,Male,11,TypeScript,140000
+972,32,Male,14,Java,70000
+973,23,Male,4,"Django, Flask, Plotly Dash",
+974,32,Female,10,QA,
+975,30,Male,7,python,39000
+976,30,Male,2,Python,45000
+977,30,Male,6,Python,54000
+978,30,Male,5,Python,52500
+979,48,Male,15,Python,
+980,31,Male,7,Sql,75000
+981,38,Male,15,C#,
+982,22,Male,3,PHP,
+983,28,Male,3,Python,30000
+984,29,Male,5,Python,75000
+985,34,Male,5,Javascript / Typescript,54000
+986,27,Male,5,"Javascript, Angular",
+987,34,Male,3,Python,55000
+988,28,Male,2,C,
+989,40,Male,9,C,87000
+990,29,Male,5,,55000
+991,27,Male,1,C++,45000
+992,35,Female,5,"SAS,SQL,Python",
+993,29,Male,9,Typescript,
+994,38,Male,12,Node,71000
+995,32,Male,7,Python/SQL,75000
+996,37,Male,10,Python,79000
+997,29,Male,6,"php, js, python, docker",58800
+998,32,Male,7,"C, Matlab",
+999,40,Male,16,C++,70000
+1000,39,Male,12,Javascript,80000
+1001,32,Male,10,Java,80000
+1002,26,Female,5,Java,
+1003,30,Male,9,"TypeScript, Kotlin",74000
+1004,32,Female,5,Python ,75000
+1005,32,Male,8,C++,
+1006,31,Male,5,Java,
+1007,30,Male,10,Ruby,
+1008,30,Male,12,Cloud,
+1009,30,Female,8,Javascript,
+1010,25,Male,5,Java,50000
+1011,30,Male,9,,81000
+1012,26,Male,4,JavaScript / TypeScript,
+1013,32,Male,4,,62000
+1014,32,Female,8,Typescript,
+1015,39,Male,16,Embedded,60000
+1016,31,Male,8,,60000
+1017,35,Male,1,Apotheker,
+1018,38,Male,16,.net,90000
+1019,22,Male,2,Python,30000
+1020,32,Male,3,Python,62000
+1021,30,Female,9,"JavaScript, TypeScript",51000
+1022,34,Male,10,Java,67000
+1023,36,Male,14,Java,75000
+1024,26,Female,2,Tricentis Tosca,
+1025,28,Female,3,SQL,43000
+1026,25,Male,6,Scala,
+1027,28,Male,6,"Python, SQL",78000
+1028,26,Male,4,Swift/Kotlin,
+1029,35,Male,20,JavaScript,90000
+1030,25,Male,1,Python ,
+1031,23,Female,1,Sql ,36000
+1032,28,Male,3,.NET,65000
+1033,36,Male,10,Java & Distributed Systems Stuff,85000
+1034,41,Male,20,Php,
+1035,30,Male,9,.NET,55000
+1036,30,Male,9,.NET,55000
+1037,28,Male,6,C++,140000
+1038,29,Male,5,javascript,60000
+1039,,Male,15,Elixir,
+1040,26,Female,4,C#,55000
+1041,26,Male,4,Python,45000
+1042,31,Male,5,Java,68000
+1043,34,Female,11,QA,60000
+1044,34,Male,8,Embedded,
+1045,36,Male,13,Java,80000
+1046,36,Male,17,Python,
+1047,40,Female,16,,57000
+1048,31,Male,7,Java,75000
+1049,28,Male,8,PHP,
+1050,28,Male,8,PHP,
+1051,36,Male,16,Scala,120000
+1052,22,Female,2,JS,
+1053,26,Female,7,,
+1054,30,Male,4,python,55000
+1055,35,Male,12,Kotlin,74000
+1056,30,Male,10,iOS,65000
+1057,36,Male,15,jenkins bash,
+1058,35,Male,,,85000
+1059,28,Male,5,Java,50000
+1060,42,Male,19,PHP,65000
+1061,34,Male,14,Kotlin,90000
+1062,27,Male,0,Python,
+1063,,Male,5,javascript,
+1064,36,Female,5,Python,77000
+1065,31,Male,4,Python,64000
+1066,32,Female,2,Test Management ,47000
+1067,32,Male,13,JavaScript,80000
+1068,36,Male,6,Python,65000
+1069,26,Male,6,TypeScript,80000
+1070,28,Female,4,Python,67000
+1071,34,Male,10,Python,62500
+1072,38,Male,10,Python,85000
+1073,37,Male,16,Java,75000
+1074,31,Male,9,NodeJS/TS,65000
+1075,38,Male,15,PHP/MySQL,20000
+1076,24,Male,3,,36000
+1077,25,Male,2,Python,48000
+1078,33,Female,13,"Angular, TypeScript",47745
+1079,39,Female,2.5,python,60000
+1080,25,Male,1,C#,
+1081,30,Female,7,Java,55000
+1082,45,Male,27,,90000
+1083,28,Female,5,,
+1084,45,Male,19,,88000
+1085,37,,15,C,120000
+1086,35,Male,14,C++,90000
+1087,25,Male,2,"NLP, Python",
+1088,31,Male,4,Java,65000
+1089,31,Male,"6 (not as a data scientist, but as a lab scientist)",Python,
+1090,25,Female,1.5,Python,36000
+1091,27,Male,2,PHP,
+1092,37,Male,12,php,65000
+1093,27,Male,5,,65000
+1094,32,Male,4,"Python, Whole Apache Data Science Stack, AWS",34000
+1095,28,Female,3,Python,65000
+1096,35,Male,4,Java,42000
+1097,36,Male,15,Go,80000
+1098,32,Male,5,Java,65000
+1099,22,Male,2,Java,37000
+1100,33,Male,3,Python,65000
+1101,35,Male,13,Php,68000
+1102,32,Female,5,Java,50400
+1103,69,Male,383,,
+1104,28,Male,4,SQL,
+1105,30,Male,5,Python,55000
+1106,40,Male,15,SQL,84000
+1107,27,Female,5,Python ,60000
+1108,32,Male,10,Node.js,72000
+1109,33,Male,5,Embedded C++,58000
+1110,31,Male,4,Python,45000
+1111,30,Male,5,,63000
+1112,32,Male,10,Swift,75000
+1113,32,Male,12,,
+1114,25,Male,7,JS,
+1115,34,Male,10,C++,72000
+1116,29,Male,5,Python,55000
+1117,29,Male,5,Python,55000
+1118,30,Male,10,,75000
+1119,31,Male,8,,
+1120,24,Male,3,Go,
+1121,35,Male,10,Java,60000
+1122,31,Male,6,NodsJs,
+1123,27,Male,2,Java,60000
+1124,38,Male,1,Javascript/Typescript,40000
+1125,34,Male,12,Java,72000
+1126,35,Male,4,python,60000
+1127,35,Male,17,Linux,68000
+1128,36,Male,10,Java,
+1129,33,Male,13,Java,
+1130,29,Male,7,"Kuberenetes, Openstack",78000
+1131,35,Male,15,Java,80000
+1132,30,Male,11,c/c++,
+1133,31,Female,4,,70000
+1134,25,Female,4,JavaScript/Typescript,
+1135,24,Male,0.8,Python,
+1136,34,Male,14,C#,72000
+1137,42,Male,2,Python ,65000
+1138,37,Female,7,java,45000
+1139,32,Male,8,Swift,70000
+1140,26,Female,8,c++,15000
+1141,35,Male,15,SQL,60000
+1142,43,Male,18,.NET,115000
+1143,41,Male,15,Kotlin,99000
+1144,33,Male,8,NodeJS,85000
+1145,44,Male,15,"JS, Java",72000
+1146,28,Male,5,"Python, Pytorch",52000
+1147,34,Female,10,"PS, Sketch, React, CSS3",45000
+1148,,,10,Python,60000
+1149,40,Male,20,Java,
+1150,28,Male,3,C++,45000
+1151,26,Male,2.5,Python/NLP,37500
+1152,39,Male,15,Java,65000
+1153,32,Male,6,Python,90000
+1154,36,Male,15,,
+1155,27,Female,3,Java,16000
+1156,32,Female,2,Javascript,50000
+1157,25,Female,4,"Scala, Apache Spark",
+1158,37,Female,7,Python,
+1159,56,Male,30,c++,90000
+1160,30,Male,4.5,Python,60000
+1161,30,Female,5,Java,
+1162,30,Female,5,Java,
+1163,27,Male,6,Python,67000
+1164,29,Male,6,Python,
+1165,24,Male,3.5,"Swift, Objective-C",
+1166,27,Male,0,Python,34000
+1167,28,Male,7,React.js / TypeScript,63000
+1168,40,Male,14,"BI, DWH, ETL/ELT",
+1169,32,Male,9,Scala,87000
+1170,35,Female,5,,50000
+1171,32,Male,11,Scala,70000
+1172,30,Male,9,Scala,
+1173,30,Male,9,Scala,82000
+1174,36,Male,16,Java,59500
+1175,33,Male,7,C++,
+1176,33,Male,15,Java,80000
+1177,32,Male,13,Java,79000
+1178,31,,5,Python,54000
+1179,34,Male,12,Kotlin,72000
+1180,,,,,
+1181,,,,,
+1182,54,Male,25,Python,80000
+1183,28,Male,4,GCP,30000
+1184,28,Female,5,javascript,60000
+1185,29,Female,6,Web,
+1186,38,Male,6,Python,110000
+1187,33,Male,11,Scala,
+1188,36,Male,12,Python,
+1189,36,Male,15,PHP,67000
+1190,37,Male,15,Python,
+1191,36,Male,15,PL/SQL,68000
+1192,35,Female,"1,5",SAP,
+1193,33,Male,10,Javascript,90000
+1194,33,Male,12,PHP,70200
+1195,31,Male,7,Go,
+1196,36,Male,14,Swift,75000
+1197,31,Male,9,scala,82000
+1198,36,Male,10,C#,58000
+1199,37,Male,17,AWS,85000
+1200,30,Male,3,Java,42000
+1201,30,Male,11,Java / Scala,80000
+1202,27,Male,5,java,35000
+1203,33,Female,10,Java,47500
+1204,35,Male,10,Magento,60000
+1205,26,Male,5,Java,65000
+1206,29,Male,9,C++,73000
+1207,31,Male,4,Ruby on Rails,50000
+1208,36,Male,8,.net,
+1209,24,Female,less than year,"Python, database technologies",
+1210,36,Male,10,Android,65000
+1211,29,Male,6,SQL,60000
+1212,30,Female,3,JavaScript ,51200
+1213,30,Male,8,PHP,65000
+1214,29,Male,5,Go,70000
+1215,34,Male,14,Java,92000
+1216,30,Male,10,Java,73000
+1217,34,Male,14,C#,70000
+1218,27,Male,8,"C++, C#",52000
+1219,26,Male,5,Kotlin,
+1220,35,Male,12,python,85000
+1221,44,Male,20,Java Backend,95000
+1222,34,Male,3.5,C++,53000
+1223,45,Male,20,".net, c++, spss, embeddded",200000
+1224,31,Male,10,Ruby on Rails,80000
+1225,24,Male,5,TypeScript,65000
+1226,27,Male,7,.NET,
+1227,34,Male,6,Javascript,58000
+1228,28,Male,7,Java,63000
+1229,25,Male,5,Scala,
+1230,35,Male,12,".Net, Angular",75000
+1231,,,,,
+1232,52,Male,,Atlassian JIRA,
+1233,33,Female,10,Java,55000
+1234,26,Male,5,Python,
+1235,26,Male,5,Python,
+1236,39,Male,7,Java,65000
+1237,37,Male,15,Android,83000
+1238,27,Male,3,Qlik,
+1239,38,Male,16,,95000
+1240,31,Female,4,spark,49000
+1241,30,Male,10,Kubernetes,68000
+1242,32,Male,10,SAP,125000
+1243,32,Female,8,Java,
+1244,32,Male,10,Scala,80000
+1245,28,Male,5,JavaScript,55000
+1246,38,Male,18,,90000
+1247,34,Male,7,PHP,90000
+1248,31,Male,9,Java,70000
+1249,33,Male,10,consumer analysis,48000
+1250,39,Male,15,PHP,90000
+1251,26,Male,7,JavaScript,33800
+1252,26,Male,2,yaml,40000
