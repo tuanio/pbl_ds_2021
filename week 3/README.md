@@ -2,7 +2,7 @@
 
 Thông tin mô tả về bộ data:
 
-- **# ID** cho từng Pokemon
+- **#** ID cho từng Pokemon
 - **Name** tên của từng Pokemon
 - **Type 1** Mỗi Pokemon đều có hệ, hệ thể hiện điểm yếu / điểm mạnh của từng loại tấn công.
 - **Type 2** *một vài* loại Pokemon có cả 2 hệ
