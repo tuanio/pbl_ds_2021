@@ -1,4 +1,4 @@
-Đây là bộ data về Pokemon được lấy nguyên mẫu từ ![kaggle](https://www.kaggle.com/abcsds/pokemon). Bộ data theo thông tin trên kaggle chứa 712 loại Pokemon, bao gồm tên và các chỉ số của Pokemon tương ứng.
+Đây là bộ data về Pokemon được lấy nguyên mẫu từ https://www.kaggle.com/abcsds/pokemon. Bộ data theo thông tin trên kaggle chứa 712 loại Pokemon, bao gồm tên và các chỉ số của Pokemon tương ứng.
 
 Thông tin mô tả về bộ data:
 
