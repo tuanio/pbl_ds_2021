@@ -1,0 +1,2 @@
+1. trình bày sơ qua machine learning và supervised learning là gì
+2. đi vào notebook
